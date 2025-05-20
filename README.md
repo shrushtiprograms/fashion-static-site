@@ -12,7 +12,7 @@ A simple static website built with HTML and CSS for a fashion brand, offering on
 - **Contact Form**: For customer inquiries
 
 ## Screenshots
-![Fashion Static Site Screenshot](screenshots/website-screenshot.jpeg)
+![Fashion Static Site Screenshot](screenshot/website-screenshot.jpeg)
 
 ## Technologies Used
 
