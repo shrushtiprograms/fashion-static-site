@@ -30,5 +30,5 @@ A simple static website built with HTML and CSS for a fashion brand, offering on
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shrushtiprograms/bhavi-india-fashion.git
-   cd bhavi-india-fashion
+   git clone https://github.com/shrushtiprograms/fashion-static-site.git
+   cd fashion-static-site
