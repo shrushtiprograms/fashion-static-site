@@ -1,6 +1,6 @@
-# Bhavi India - Ethnic Fashion E-Commerce
+# Fashion Static Site
 
-A responsive static website for Bhavi India Fashion, showcasing ethnic wear collections with online shopping and custom stitching services. Built with modern web technologies.
+A simple static website built with HTML and CSS for a fashion brand, offering online shopping and custom stitching services for items like Kurtis, Blouses, Dupattas, and Cholis.
 
 ## Features
 
